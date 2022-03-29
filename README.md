@@ -37,7 +37,7 @@ By HTTPS
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mrEckendonk/jest-module-testing/issues).
+Feel free to check the [issues page]
 
 ## Show your support
 
