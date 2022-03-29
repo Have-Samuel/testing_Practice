@@ -1,0 +1,23 @@
+{
+  "name": "jest-module-testing",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrEckendonk/jest-module-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrEckendonk/jest-module-testing/issues"
+  },
+  "homepage": "https://github.com/mrEckendonk/jest-module-testing#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
