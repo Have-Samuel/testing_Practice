@@ -2,11 +2,7 @@
 
 # Jest Unit Testing
 
-> Jest, build by Facebook, is a JavaScript testing framework with a focus on simplicity and developer happiness.
-
-## Live preview
-
-![screenshot](./jest.png)
+> Jest is a JavaScript testing framework with a focus on simplicity and developer happiness.
 
 ## Built With
 
@@ -16,27 +12,24 @@
 
 ## Development set up
 
-Clone Repository using
-`git clone git@github.com:mrEckendonk/jest-module-testing.git`
+Clone Repository the repo below
+`git@github.com:Have-Samuel/testing_Practice.git`
 
-OR using HTTPS
+By HTTPS
 
-`https://github.com/mrEckendonk/jest-module-testing.git`
-
-move into project directory
-`cd jest-module-testing`
+`https://github.com/Have-Samuel/testing_Practice/tree/testing`
 
 ## Run tests
 
 `npm test`
 
-## Authors
+## Author
 
-👤 **Author **
+👤 **Have Samuel**
 
-- GitHub: [@mrEckendonk](https://github.com/mrEckendonk)
-- Twitter: [@mrEckendonk](https://twitter.com/mrEckendonk)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mike-van-eckendonk/)
+- GitHub: [@githubhandle](https://github.com/Have-Samuel)
+- Twitter: [@twitterhandle](https://twitter.com/home)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/feed)
 
 ## Attribution
 
