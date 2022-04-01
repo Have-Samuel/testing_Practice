@@ -1,6 +1,6 @@
 const reverseString = require('../src/reverse.js');
 
-test('Expect that this test reverses strings', () => {
+test('Expect that this test reverse string', () => {
   expect(reverseString('KAMPALA')).toBe('ALAPMAK');
 });
 

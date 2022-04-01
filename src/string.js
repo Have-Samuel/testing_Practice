@@ -6,4 +6,4 @@ function stringLength(string) {
   }
 }
 
-module.exports = stringLength
+export default stringLength;

@@ -1,6 +1,6 @@
 const stringLength = require('../src/string.js')
 
-test("Expect that this test shows an error", () => {
+describe("Expect that this test shows an error", () => {
   expect(stringLength('have')).toBe(1);
   expect(() => stringLength('Have is Cool')).toThrow('String must have at least 1 character and not more than 10');
 });
